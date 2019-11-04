@@ -1,0 +1,27 @@
+pool:
+  vmImage: 'macOS 10.13'
+
+steps:
+- task: Xcode@5
+  displayName: 'Build the app using Xcode'
+  inputs:
+    actions: 'clean build analyze archive'
+    sdk: 'iphoneos'
+    scheme: 'TestPipeLine'
+    configuration: 'Debug'
+    xcWorkspacePath: '**/*.xcodeproj/project.xcworkspace'
+    useXcpretty: 'false'
+    args: '-archivePath $(agent.buildDirectory)/TestPipeLine'
+
+- task: ArchiveFiles@2
+  displayName: 'Package .xcarchive into a zip file'
+  inputs:
+    rootFolderOrFile: '$(agent.buildDirectory)/TestPipeLine.xcarchive/'
+    archiveFile: '$(build.artifactStagingDirectory)/TestPipeLine.xcarchive.zip'
+
+- task: PublishBuildArtifacts@1
+  inputs:
+    pathToPublish: '$(build.artifactStagingDirectory)/TestPipeLine.xcarchive.zip'
+    artifactName: 'xcarchive-files'
+    artifactType: 'container'
+
