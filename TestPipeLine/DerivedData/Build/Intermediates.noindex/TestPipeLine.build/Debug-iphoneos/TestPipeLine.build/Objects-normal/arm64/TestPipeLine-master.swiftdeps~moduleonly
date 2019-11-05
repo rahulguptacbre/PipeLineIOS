@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.1 (swiftlang-1100.0.270.13 clang-1100.0.33.7)"
+options: "b4bbf20eb42cd8461d6b73518ad9d514"
+build_time: [1572940025, 966483000]
+inputs:
+  "/Users/rahul.gupta/Documents/iOSPipeLine/Dummy/TestPipeLine/TestPipeLine/AppDelegate.swift": [1572868120, 718548562]
+  "/Users/rahul.gupta/Documents/iOSPipeLine/Dummy/TestPipeLine/TestPipeLine/SceneDelegate.swift": [1572868120, 721734440]
+  "/Users/rahul.gupta/Documents/iOSPipeLine/Dummy/TestPipeLine/TestPipeLine/ContentView.swift": [1572868120, 725672927]
