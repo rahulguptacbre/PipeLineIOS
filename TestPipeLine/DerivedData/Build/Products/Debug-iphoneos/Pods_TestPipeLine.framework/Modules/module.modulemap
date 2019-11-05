@@ -1,6 +1,0 @@
-framework module Pods_TestPipeLine {
-  umbrella header "Pods-TestPipeLine-umbrella.h"
-
-  export *
-  module * { export * }
-}

@@ -5,6 +5,75 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>2ECCA142-E19B-4431-83A6-DFBC5E24B390</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2ECCA142-E19B-4431-83A6-DFBC5E24B390.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestPipeLine project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestPipeLine</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Testing project TestPipeLine with scheme TestPipeLine</string>
+			<key>timeStartedRecording</key>
+			<real>594640347.09765697</real>
+			<key>timeStoppedRecording</key>
+			<real>594640347.60276794</real>
+			<key>title</key>
+			<string>Testing project TestPipeLine with scheme TestPipeLine</string>
+			<key>uniqueIdentifier</key>
+			<string>2ECCA142-E19B-4431-83A6-DFBC5E24B390</string>
+		</dict>
+		<key>83D82A73-D644-4989-A4F4-BBF86162B678</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>83D82A73-D644-4989-A4F4-BBF86162B678.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestPipeLine project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestPipeLine</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Testing project TestPipeLine with scheme TestPipeLine</string>
+			<key>timeStartedRecording</key>
+			<real>594640383.97188604</real>
+			<key>timeStoppedRecording</key>
+			<real>594640384.43315899</real>
+			<key>title</key>
+			<string>Testing project TestPipeLine with scheme TestPipeLine</string>
+			<key>uniqueIdentifier</key>
+			<string>83D82A73-D644-4989-A4F4-BBF86162B678</string>
+		</dict>
+	</dict>
 </dict>
 </plist>

@@ -1,5 +1,0 @@
-version: "Apple Swift version 5.1 (swiftlang-1100.0.270.13 clang-1100.0.33.7)"
-options: "b99e5f415ed985868e0bbe1ad376781b"
-build_time: [1572940044, 332097000]
-inputs:
-  "/Users/rahul.gupta/Documents/iOSPipeLine/Dummy/TestPipeLine/TestPipeLineTests/TestPipeLineTests.swift": [1572868122, 575969556]
