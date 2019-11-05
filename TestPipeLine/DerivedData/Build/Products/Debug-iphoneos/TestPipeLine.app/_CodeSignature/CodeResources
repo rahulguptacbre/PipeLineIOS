@@ -6,7 +6,7 @@
 	<dict>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<data>
-		XZxfLmPpkjvsxXM2MDJlxg35S3w=
+		Zj+kZQVuvUhA+VrcE6dfUyzoaRE=
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/Info.plist</key>
 		<data>
@@ -14,7 +14,56 @@
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib</key>
 		<data>
-		JVMXKk9r2mwCDzyKSag8larQAZ8=
+		PbxsFwYJrU612Lq9k+U22tPZcVg=
+		</data>
+		<key>Frameworks/XCTAutomationSupport.framework/Info.plist</key>
+		<data>
+		QP/lbQVRYMvPnmmG6BB4wIkylLA=
+		</data>
+		<key>Frameworks/XCTAutomationSupport.framework/XCTAutomationSupport</key>
+		<data>
+		Dk20qIY4WaslVIiZE4O7rgp44oI=
+		</data>
+		<key>Frameworks/XCTAutomationSupport.framework/_CodeSignature/CodeResources</key>
+		<data>
+		DeZ4zHScko79O3700oZjnKqlXzg=
+		</data>
+		<key>Frameworks/XCTAutomationSupport.framework/version.plist</key>
+		<data>
+		Avj3mJ6nyryuaqzZr5MRCjNy+Jw=
+		</data>
+		<key>Frameworks/XCTest.framework/Info.plist</key>
+		<data>
+		ymXHxLu+oBPmQhRzO1XTR3HOxdY=
+		</data>
+		<key>Frameworks/XCTest.framework/XCTest</key>
+		<data>
+		CwhRTzu++WXn7PCQOVaCigpWfSE=
+		</data>
+		<key>Frameworks/XCTest.framework/_CodeSignature/CodeResources</key>
+		<data>
+		geqgZDl+/3BjWskYqinWIW4aHC8=
+		</data>
+		<key>Frameworks/XCTest.framework/en.lproj/InfoPlist.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			TuBj57ZP6zBqcL9HttO2Rucaw9E=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/XCTest.framework/version.plist</key>
+		<data>
+		Avj3mJ6nyryuaqzZr5MRCjNy+Jw=
+		</data>
+		<key>Frameworks/libXCTestBundleInject.dylib</key>
+		<data>
+		I5KwTgI6/GPjVgsHXg2Y3eTpwR8=
+		</data>
+		<key>Frameworks/libXCTestSwiftSupport.dylib</key>
+		<data>
+		j/RKCllKHN5pmhHtGzbcNPEl4FA=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -23,6 +72,26 @@
 		<key>PkgInfo</key>
 		<data>
 		n57qDP4tZfLD1rCS43W0B4LQjzE=
+		</data>
+		<key>PlugIns/TestPipeLineTests.xctest.dSYM/Contents/Info.plist</key>
+		<data>
+		KC+XeeM0ta8enpkYLrvCYfYxMrI=
+		</data>
+		<key>PlugIns/TestPipeLineTests.xctest.dSYM/Contents/Resources/DWARF/TestPipeLineTests</key>
+		<data>
+		GNMt0wuiF6W1+FfaY9/tqTVarcM=
+		</data>
+		<key>PlugIns/TestPipeLineTests.xctest/Info.plist</key>
+		<data>
+		EAaCRKYDVyJ8ISIVp6FncJjbTnQ=
+		</data>
+		<key>PlugIns/TestPipeLineTests.xctest/TestPipeLineTests</key>
+		<data>
+		QabwKLNmDGt1PiY4IAPuGYTYer8=
+		</data>
+		<key>PlugIns/TestPipeLineTests.xctest/_CodeSignature/CodeResources</key>
+		<data>
+		kAVKlNpMQlgYOgzI0weDog/nsv4=
 		</data>
 		<key>embedded.mobileprovision</key>
 		<data>
@@ -35,7 +104,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			WoSoSlIJKfFnR+pPMYqxgCtewFqTqcWey+rkopIYY3g=
+			8qlhHvE0XLxKyIXTI4nYxnjIn8WXGBMKLd69lpatUJY=
 			</data>
 		</dict>
 		<key>Base.lproj/LaunchScreen.storyboardc/Info.plist</key>
@@ -49,7 +118,121 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7uOFvlRp3S6sdHdZyMF+RQbw1WTUVZA75Jk2rhZCGtI=
+			rIDR223oVihCfgfx9E5mzQx8do5g3A2Eevx7h/iEDh0=
+			</data>
+		</dict>
+		<key>Frameworks/XCTAutomationSupport.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			xMdyEIMjgsn0a5MYvWN4PTMlwYGR8QfI8tqyk2ZwhNE=
+			</data>
+		</dict>
+		<key>Frameworks/XCTAutomationSupport.framework/XCTAutomationSupport</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			jfK9EQ/+EIgie9989vF6XE9rnYPjAZlfHAQ2OT71KOI=
+			</data>
+		</dict>
+		<key>Frameworks/XCTAutomationSupport.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			n/AEV6gXgf2SKngSwAzwQ++OhFqy8cOdDlYySqHZpGw=
+			</data>
+		</dict>
+		<key>Frameworks/XCTAutomationSupport.framework/version.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			OUh9uhk03aAwES8EGfEUf7CozvGNaRZ9X85DB5QghnM=
+			</data>
+		</dict>
+		<key>Frameworks/XCTest.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			nucrZlgG0LH1GhxqdOUs10Lu3F0qpppiAigfYwTTrN8=
+			</data>
+		</dict>
+		<key>Frameworks/XCTest.framework/XCTest</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			QA/XRaArPUuchXkfxBV9ifNnwjI1PF/D0SfDwz5jwCc=
+			</data>
+		</dict>
+		<key>Frameworks/XCTest.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			qZwRz+8jlZuR46WcsH2aRcgZYyzkVPaoet2Uf1hvTpI=
+			</data>
+		</dict>
+		<key>Frameworks/XCTest.framework/en.lproj/InfoPlist.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			89RGkjZaKuewYnjpzwhIswhqfrU8+pcEXqM/DHVrUmo=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/XCTest.framework/version.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			OUh9uhk03aAwES8EGfEUf7CozvGNaRZ9X85DB5QghnM=
+			</data>
+		</dict>
+		<key>Frameworks/libXCTestBundleInject.dylib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			N8ornilDSMF+rrRHGyFTlI3UoIlCFoYwZfWQvxbt8E8=
+			</data>
+		</dict>
+		<key>Frameworks/libXCTestSwiftSupport.dylib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			gkG+JSMz7YsVw7qZORV/RRnxWFYuYUPSuj8oGavnEho=
+			</data>
+		</dict>
+		<key>PlugIns/TestPipeLineTests.xctest.dSYM/Contents/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			av05OSKunL0H9KYHfQ9JfURh3ZpOubihNTn8+XZJMlM=
+			</data>
+		</dict>
+		<key>PlugIns/TestPipeLineTests.xctest.dSYM/Contents/Resources/DWARF/TestPipeLineTests</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			RMHelTsc97qTYg/M9M7Mvsy3MCU2WyrPvZ/9O6iKTSw=
+			</data>
+		</dict>
+		<key>PlugIns/TestPipeLineTests.xctest/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			IoXMoPe7hwVz5z/lenPGZuGIUez5kyO3Qkd85E2uYs8=
+			</data>
+		</dict>
+		<key>PlugIns/TestPipeLineTests.xctest/TestPipeLineTests</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			8h3ds7pFkO1oNacP3e88Q9Elh3hLhe9DSdUMx/82saM=
+			</data>
+		</dict>
+		<key>PlugIns/TestPipeLineTests.xctest/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			dUEkhXwNJ1VWxj6KO2kZJynp9b7g9mlyR28uysQNveI=
 			</data>
 		</dict>
 		<key>embedded.mobileprovision</key>
