@@ -26,9 +26,10 @@ class TestPipeLineUITests: XCTestCase {
 
     func testExample() {
         app.launch()
-        XCTAssert(app.textFields["Hello World"].exists, "Hello World is not visible")
+        XCTAssert(app.staticTexts["Hello World"].exists, "Hello World is not visible")
         // Use recording to get started writing UI tests.
         // Use XCTAssert and related functions to verify your tests produce the correct results.
+        
     }
 
     func testLaunchPerformance() {
